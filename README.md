@@ -22,12 +22,12 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 ##Screenshot
 
-![](https://raw.github.com/jenson-sze/gameoflife/master/screenshot.png)
+![](https://raw.github.com/jenson-shi/gameoflife/master/screenshot.png)
 
-![](https://raw.github.com/jenson-sze/gameoflife/master/screenshot.jpg)
+![](https://raw.github.com/jenson-shi/gameoflife/master/screenshot.jpg)
 
 ##Download
 
-[Windows](https://github.com/jenson-sze/gameoflife/releases/download/v1.0/gameoflife_win32.zip)
+[Windows](https://github.com/jenson-shi/gameoflife/releases/download/v1.0/gameoflife_win32.zip)
 
-[MacOSX](https://github.com/jenson-sze/gameoflife/releases/download/v1.0/gameoflife.dmg)
+[MacOSX](https://github.com/jenson-shi/gameoflife/releases/download/v1.0/gameoflife.dmg)
