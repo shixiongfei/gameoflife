@@ -57,9 +57,9 @@ class BuildExe:
         self.license = "LGPL"
  
         #Auhor of program
-        self.author_name = "Jampe"
-        self.author_email = "jampe.s@gmail.com"
-        self.copyright = "Copyright (c) 2012 jampe.net"
+        self.author_name = "Jenson"
+        self.author_email = "jenson.sze@gmail.com"
+        self.copyright = "Copyright (c) 2012-2014 shixf.com"
  
         #Description
         self.project_description = "Game Of Life"
